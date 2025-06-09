@@ -58,3 +58,5 @@ robot1      	CompanionRobot	    Stack → Heap
 walkBehavior  	NormalWalk      	Heap → Heap
 talkBehavior	NormalTalk	        Heap → Heap
 flyBehavior  	NoFly	            Heap → Heap
+
+how to add new content
